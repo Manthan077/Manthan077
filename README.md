@@ -57,6 +57,15 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 > 🧩 **Reforge** (Current): Building an **AI workflow builder** to automate GTM tasks and connect multiple steps (scrape → enrich → generate → export) into reusable workflows.
 
 ---
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/>
+</p>
+
+---
 <!-- Snake Game Repo View -->
 
 <div align="center">
