@@ -57,15 +57,22 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 > 🧩 **Reforge** (Current): Building an **AI workflow builder** to automate GTM tasks and connect multiple steps (scrape → enrich → generate → export) into reusable workflows.
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 ## 🧠 Tech Stack
 
-**Languages:** C, C++, Java, JavaScript, TypeScript
-**Frontend:** React, TailwindCSS, HTML, CSS
-**Backend:** Node.js, Express.js
-**Databases:** MongoDB, MySQL, PostgreSQL, Qdrant (Vector DB)
-**GenAI:** RAG, Gemini API, LangChain, LangGraph
-**Tools:** Git, GitHub, Docker, VS Code, Postman
+**Languages:** C, C++, Java, JavaScript, TypeScript  
+**Frontend:** React, TailwindCSS, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL, PostgreSQL, Qdrant (Vector DB)  
+**GenAI:** RAG, Gemini API, LangChain, LangGraph  
+**Tools:** Git, GitHub, Docker, VS Code, Postman  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,postman" />
@@ -75,7 +82,7 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 
 ## 🎓 Education
 
-* **Chandigarh University (2023–2027)** — B.E. CSE — **8.93 CGPA**
+* **Chandigarh University (2023–2027)** — B.E. CSE — **8.95 CGPA**
 * **CBSE Class XII (2022–2023)** — **93.8%**
 * **CBSE Class X (2020–2021)** — **97.4%**
 
