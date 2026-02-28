@@ -53,6 +53,16 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 > 🧩 **Reforge** (Current): Building an **AI workflow builder** to automate GTM tasks and connect multiple steps (scrape → enrich → generate → export) into reusable workflows.
 
 ---
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manthan077&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan077&theme=tokyo-night" />
+</p>
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -61,7 +71,6 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/>
 </p>
 
----
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -82,14 +91,6 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,postman" />
 </p>
-
----
-
-## 🎓 Education
-
-* **Chandigarh University (2023–2027)** — B.E. CSE — **8.95 CGPA**
-* **CBSE Class XII (2022–2023)** — **93.8%**
-* **CBSE Class X (2020–2021)** — **97.4%**
 
 ---
 
