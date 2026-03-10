@@ -25,30 +25,28 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 
 ---
 
-## 🏆 Featured Projects
+# 🏆 Featured Projects
 
-### 🔹 INFOSTACK — Retrieval-Augmented Generation (RAG) Playground (Dec 2025)
-
+## 🔹 INFOSTACK — Retrieval-Augmented Generation (RAG) Playground (Dec 2025)
 **Tech:** React, TailwindCSS, Node.js, Express.js, Qdrant, Gemini API, LangChain, Puppeteer
 
-* Multi-document RAG supporting **text/PDF/image/website ingestion** with **cross-document semantic retrieval**
-* **Strict (document-only)** vs **Hybrid (document + LLM)** modes with backend enforcement
-* Production-grade chat UI: sessions, regeneration, copy/feedback, and **source tracking**
+- Built a **multi-document RAG platform** supporting ingestion of text, PDFs, images, and websites for contextual AI conversations.
+- Implemented **semantic vector search using Qdrant** with Strict (document-only) and Hybrid (document + LLM) retrieval modes.
+- Developed a **production-grade chat interface** with sessions, response regeneration, feedback tools, and source attribution.
 
-### 🔹 MEDIROUTE AI — Smart Ambulance Navigation & Signal Priority (Jan 2026)
-
+## 🔹 MEDIROUTE AI — Smart Ambulance Navigation & Signal Priority (Jan 2026)
 **Tech:** React, TypeScript, Supabase (Postgres + Realtime + Auth), Leaflet, TailwindCSS, Vercel
 
-* Role-based dashboards (Admin/Hospital/Ambulance) with live GPS updates (~2s)
-* Green-corridor routing + live rerouting to target **25–40% faster response times**
-* Capacity-aware hospital allocation scoring (distance + ICU/ER availability − load)
+- Built an **AI-assisted ambulance routing platform** with role-based dashboards for Admin, Hospital, and Ambulance users.
+- Implemented **real-time GPS tracking and green corridor routing** with dynamic rerouting to reduce emergency response times.
+- Designed a **hospital allocation scoring system** based on distance, ICU/ER availability, and real-time hospital load.
 
-### 🔹 Smart Home Environment Monitoring System (Jan–May 2025)
+## 🔹 ORTHOVITA — AI-Powered Rehabilitation Assistant (Feb 2026
+**Tech:** React, Vite, MediaPipe, Node.js, Express.js, MongoDB, Gemini API, TailwindCSS
 
-**Tech:** Arduino, MQ Gas Sensors, Blynk, IoT, Gmail API
-
-* Real-time gas/environment monitoring + threshold alerts
-* Automated Gmail + mobile notifications; documented in a research paper
+- Developed an **AI-powered physiotherapy assistant** using MediaPipe pose detection for real-time posture tracking and exercise monitoring.
+- Implemented **automatic rep counting, posture accuracy detection, and live corrective feedback** during rehabilitation exercises.
+- Built a **full-stack platform with JWT authentication, MongoDB session storage, and AI chatbot integration** for personalized guidance.
 
 > 🧩 **Reforge** (Current): Building an **AI workflow builder** to automate GTM tasks and connect multiple steps (scrape → enrich → generate → export) into reusable workflows.
 
