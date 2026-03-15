@@ -41,7 +41,7 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 - Implemented **real-time GPS tracking and green corridor routing** with dynamic rerouting to reduce emergency response times.
 - Designed a **hospital allocation scoring system** based on distance, ICU/ER availability, and real-time hospital load.
 
-## 🔹 ORTHOVITA — AI-Powered Rehabilitation Assistant (Feb 2026
+## 🔹 ORTHOVITA — AI-Powered Rehabilitation Assistant (Feb 2026)
 **Tech:** React, Vite, MediaPipe, Node.js, Express.js, MongoDB, Gemini API, TailwindCSS
 
 - Developed an **AI-powered physiotherapy assistant** using MediaPipe pose detection for real-time posture tracking and exercise monitoring.
