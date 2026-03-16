@@ -54,6 +54,10 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 ## 🔥 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan077&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Manthan077&theme=tokyonight" />
 </p>
 
