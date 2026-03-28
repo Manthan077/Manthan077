@@ -65,14 +65,6 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan077&theme=tokyo-night" />
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/>
-</p>
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
