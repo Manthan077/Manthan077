@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on: **Reforge** (AI workflow builder) + **EquiLearn** + real-time full-stack projects
+* 🔭 I’m currently working on: **Reforge** (AI workflow builder) + **HealBuddy** + real-time full-stack projects
 * 👯 I’m looking to collaborate on: **GenAI/RAG products**, **React + Node.js** apps, dashboards, and hackathon builds
 * 🤝 I’m looking for help with: **scaling RAG** (chunking, reranking, evals), **system design**, and better deployments (Docker/Vercel)
 * 🌱 I’m currently learning: **Advanced DSA**, backend scalability, vector DBs (**Qdrant**), and **LangChain/LangGraph** workflows
