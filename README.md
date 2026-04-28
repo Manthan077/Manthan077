@@ -90,9 +90,10 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 
 ## 🥇 Achievements & Certifications
 
-* Deloitte Data Analytics Job Simulation — Certificate (Jan 2026)
+* Finalist - **Hack The Winter** 2026 (National Level Hackathon)
+* Finalist - **Hacksagon** 2026 (National Level Hackathon)
+* Finalist - **India Innovates** 2026 (National Level Hackathon)
 * Ranked **Top 2% nationally** — NPTEL *Introduction to IoT* (2025)
-* Full Stack Web Development — Udemy
 * Generative AI Mastery Workshop — OpenAI Academy × NxtWave
 * Finalist — Project Expo 2025 (Smart Home Monitoring System)
 * Cleared NDA (National Defence Academy) Examination
