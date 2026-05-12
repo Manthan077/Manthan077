@@ -75,16 +75,39 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 
 ## 🧠 Tech Stack
 
-**Languages:** C, C++, Java, JavaScript, TypeScript  
-**Frontend:** React, TailwindCSS, HTML, CSS  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL, PostgreSQL, Qdrant (Vector DB)  
-**GenAI:** RAG, Gemini API, LangChain, LangGraph  
-**Tools:** Git, GitHub, Docker, VS Code, Postman  
+**💻 Languages:**  
+C, C++, Java, JavaScript, TypeScript  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,postman" />
-</p>
+---
+
+**🌐 Frontend:**  
+React, TailwindCSS, HTML, CSS  
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+---
+
+**⚙️ Backend:**  
+Node.js, Express.js  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+---
+
+**🗄️ Databases:**  
+MongoDB, MySQL, PostgreSQL, Qdrant (Vector DB)  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+---
+
+**🤖 GenAI:**  
+RAG • Gemini API • LangChain • LangGraph  
+🧠 ✨ 🔗 🕸️
+
+---
+
+**🛠️ Tools:**  
+Git, GitHub, Docker, VS Code, Postman  
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
 ---
 
