@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manthan Sharma 👋</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi, I'm Manthan Sharma </h1>
 <h3 align="center">CSE Undergrad | Full-Stack Developer | GenAI (RAG) Builder</h3>
 
 <p align="center">
@@ -7,15 +7,17 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
-* 🔭 I’m currently working on: **DSA** + **ReForge** + **Full Stack Projects**
-* 👯 I’m looking to collaborate on: **GenAI/RAG products**, **React + Node.js** apps, dashboards, and hackathon builds
-* 🤝 I’m looking for help with: **scaling RAG** (chunking, reranking, evals), **system design**, and better deployments (Docker/Vercel)
-* 🌱 I’m currently learning: **Advanced DSA**, backend scalability
-* 💬 Ask me about: **React**, **Node/Express**, **RAG pipelines**, **Qdrant**, **Gemini API**, Git/GitHub, Docker
-* ⚡ Fun fact: **State-level swimmer** 🏊‍♂️ | **Cleared NDA exam**
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🔭 I'm currently working on **DSA**, **ReForge**, and **Full Stack Projects**
+- 👯 Looking to collaborate on **GenAI/RAG products**, **React + Node.js** apps, dashboards, and hackathons
+- 🤝 Seeking help with **RAG scaling**, **System Design**, and **Docker deployments**
+- 🌱 Currently learning **Advanced DSA** and **Backend Scalability**
+- 💬 Ask me about **React**, **Node.js**, **RAG Pipelines**, **Qdrant**, **Gemini API**, and **Docker**
+- ⚡ **State-level Swimmer 🏊‍♂️** | **Cleared NDA Examination**
+<br clear="right"/>
 
 ---
 
