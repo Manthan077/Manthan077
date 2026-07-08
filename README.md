@@ -1,5 +1,6 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi, I'm Manthan Sharma </h1>
-<h3 align="center">CSE Undergrad | Full-Stack Developer | GenAI (RAG) Builder</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Manthan%20Sharma&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Engineer%20%7C%20Problem%20Solver&descAlignY=55"/>
+</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Location-Mohali%2C%20Punjab-0ea5e9?style=flat" alt="location"/></a>
