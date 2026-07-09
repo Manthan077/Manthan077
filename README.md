@@ -12,7 +12,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🔭 I'm currently working on **DSA**, **ReForge**, and **Full Stack Projects**
+- 🔭 I'm currently working on **DSA** and **ReForge**
 - 👯 Looking to collaborate on **GenAI/RAG products**, **React + Node.js** apps, dashboards, and hackathons
 - 🤝 Seeking help with **RAG scaling**, **System Design**, and **Docker deployments**
 - 🌱 Currently learning **Advanced DSA** and **Backend Scalability**
