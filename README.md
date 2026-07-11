@@ -3,8 +3,32 @@
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Production+Grade+AI+Applications;RAG+%7C+LangChain+%7C+React+%7C+Node.js;Hackathon+Finalist;Always+Learning+Always+Building" />
+</p>
+
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Location-Mohali%2C%20Punjab-0ea5e9?style=flat" alt="location"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-22c55e?style=flat" alt="open to"/></a>
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/manthan-sharma7">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:manthan10041004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/u/Manthan_Sharma_7/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+</a>
+
+<a href="https://github.com/Manthan077">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
 ---
