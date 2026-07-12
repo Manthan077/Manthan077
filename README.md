@@ -115,7 +115,8 @@ React, TailwindCSS, HTML, CSS
 ---
 
 **⚙️ Backend:**  
-Node.js, Express.js  
+Node.js, Express.js, REST APIs, WebSockets
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ---
