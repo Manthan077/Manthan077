@@ -41,7 +41,6 @@
 - 🤝 Seeking help with **RAG scaling**, **System Design**, and **Docker deployments**
 - 🌱 Currently learning **Advanced DSA** and **Backend Scalability**
 - 💬 Ask me about **React**, **Node.js**, **RAG Pipelines**, **Qdrant**, **Gemini API**, and **Docker**
-- ⚡ **State-level Swimmer 🏊‍♂️** | **Cleared NDA Examination**
 <br clear="right"/>
 
 ---
