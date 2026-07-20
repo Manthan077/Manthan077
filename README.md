@@ -51,14 +51,6 @@ I build **user-centric web apps** and **document-grounded AI systems** using Ret
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manthan077&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
 # 🏆 Featured Projects
 
 ## 🔹 INFOSTACK — Retrieval-Augmented Generation (RAG) Playground (Dec 2025)
